@@ -1,0 +1,4 @@
+dimensão da imagem: 420x250 
+formato: gif
+nome: imagem.gif
+
